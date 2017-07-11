@@ -1,8 +1,13 @@
+# Easy Jquery Photo Gallery Plugin
+
 Simple and Responsive Photo Gallery with jQuery
 
 ## Prerequisites
 
 jQuery 1.3+
+## Demo
+
+[Demo Gallery](http://www.tiendasdigitales.net/github/easyjquerygallery/)
 
 ## Quick start
 
